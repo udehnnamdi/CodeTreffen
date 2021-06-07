@@ -46,7 +46,7 @@ MongoDB
 Completed
 
 ## Why fitGuild
-The sole purpose of the app is to provide a platform where individuals who are interested in learning to code, or in improving their coding skills, can gain access to various coding meetups, in various cities across the globe. It alse serves the purpose of demonstrating the core Next.js functionalities.
+The sole purpose of the app is to provide a platform where individuals who are interested in learning to code, or in improving their coding skills, can gain access to various coding meetups, in various cities across the globe. It also serves the purpose of demonstrating the core Next.js functionalities.
 
 ## Contact
 Created by [Nnamdi Udeh](http://www.linkedin.com/in/nnamdi-udeh-630a33185)
