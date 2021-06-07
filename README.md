@@ -45,7 +45,7 @@ MongoDB
 ## Status 
 Completed
 
-## Why fitGuild
+## Why CodeTreffen
 The sole purpose of the app is to provide a platform where individuals who are interested in learning to code, or in improving their coding skills, can gain access to various coding meetups, in various cities across the globe. It also serves the purpose of demonstrating the core Next.js functionalities.
 
 ## Contact
