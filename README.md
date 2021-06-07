@@ -1,4 +1,4 @@
-# CodeTreffen-Next.js-App
+# CodeTreffen-Nextjs-App
 ## TABLE OF CONTENTS
 * [Live Site](#Live-Site)
 * [About](#About-CodeTreffen)
