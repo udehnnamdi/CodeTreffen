@@ -15,8 +15,8 @@ To access the CodeTreffen App, click on this link [CodeTreffen](https://code-tre
 
 ![Meetup Application](https://i.ibb.co/r3nftvm/Screenshot-30.png)
 
-## About FitGuild
-With the FitGuild app, users are able to connect with fitness meetups, fitness studios, and gyms across the globe. Users are also able to post and share their fitness meetup groups, fitness studios, and gyms, edit and update them, as well as review those of other users.
+## About CodeTreffen
+CodeTreffen is a meetup app that connects users with various coding meetup groups across different cities. The app demonstrates the core features of Next.js.
 
 ## Technologies
 Html 5
@@ -25,35 +25,28 @@ Css 3
 
 Javascript
 
-Node.js
+Next.js
 
-Express.js
+React.js
 
 MongoDB
 
-Mongoose
-
 ## Setup
 1. Fork and clone this repository
-2. Run ~ Git Bash
-3. cd into the fitGuild folder
-4. Run ~ nodemon app.js
-5. Connect to localhost:3000 on your web browser, or [click here](http://localhost:3000/)
+2. Navigate into the codeTreffen folder via the cd command in your command prompt or terminal first.
+3. Run ~ npm install to install all required dependencies (this will create a /node_modules folder).
+4. Run ~ npm run dev to start the server
 
-## FitGuild Features
-- Access fitness meetup groups across the globe
-- Upload your fitness studios, gyms, and fitness meetup groups
-- review the fitness groups posted by other users
-- Track your fitness location on the world map
+## CodeTreffen Features
+- Access coding meetup groups across the globe
+- Upload your meetup groups, together with the title, photo, address, and description 
 - connect with like-minded people
 
 ## Status 
 Completed
 
-The fitGuild app performs the CRUD functionality
-
 ## Why fitGuild
-The app was created as a result of my personal affinity for fitness and a healthy lifestyle. Being a fitness enthusiast and someone who was formerly a fitness trainer, I have come to the realization that one of the main issues faced by individuals who are starting out on the fitness path, is the lack of knowledge of accessible fitness studios, gyms, and meetup groups, where they can connect with like-minded people who are on the same journey. This app serves as a resource for those who are seeking to improve their health and fitness.
+The sole purpose of the app is to provide a platform where individuals who are interested in learning to code, or in improving their coding skills, can gain access to various coding meetups, in various cities across the globe. It alse serves the purpose of demonstrating the core Next.js functionalities.
 
 ## Contact
 Created by [Nnamdi Udeh](http://www.linkedin.com/in/nnamdi-udeh-630a33185)
